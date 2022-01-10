@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rifqizhaff
-- 👀 I’m interested in Front End Web Development and UI Designer
+- 👀 I’m interested in Front End Web Development and UI Design
 - 🌱 I’m currently learning Javascript and React.js
 - 📫 How to reach me - email me on rifqizhaff@gmail.com
 
