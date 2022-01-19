@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rifqizhaff
 - 👀 I’m interested in Front End Web Development and UI Design
 - 🌱 I’m currently learning Javascript and React.js
-- 📫 How to reach me - email me on rifqizhaff@gmail.com
+- 📫 How to reach me - email me on rifqizhaff@gmail.com or by IG rifqizhafar
 
 <!---
 Rifqizhaff/Rifqizhaff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
